@@ -14,6 +14,6 @@ Currently working as a Software Engineer in Milan, Italy at Levels, building sof
 
 
 🌐 **Personal GitHub**  
-Looking for my personal projects, university work, and side projects? ➡️ [![GitHub: @queltom](https://img.shields.io/badge/GitHub-@queltom-181717?style=for-the-badge&logo=github)](https://github.com/queltom)
+Looking for my personal projects, university work, and side projects? [![GitHub: @queltom](https://img.shields.io/badge/GitHub-@queltom-181717?style=for-the-badge&logo=github)](https://github.com/queltom)
 
 
