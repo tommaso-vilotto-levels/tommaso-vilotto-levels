@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**tommaso-vilotto-levels/tommaso-vilotto-levels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=205&color=gradient&text=Hi%20there,%20I%27m%20Tom!&textBg=false&animation=fadeIn" />
+</p>
+---
+💼 **Software Engineer**
+Currently working as a **Software Engineer** in **Milan, Italy** at **Levels**, building software and contributing to the company's products.
+🎓 **Academic Background**
+- Master's Degree in Computer Science and Engineering (LM-32), University of Verona, graduated with **summa cum laude** (110/110 e lode) – GPA: **3.93 / 4.0** 🎯
+- Bachelor's Degree in Computer Science (L-31), University of Verona, graduated with **summa cum laude** (110/110 e lode) – GPA: **3.84 / 4.0** 🏅
+🌐 **Personal GitHub**
+Looking for my personal projects, university work, and side projects?
+➡️ **https://github.com/queltom**
