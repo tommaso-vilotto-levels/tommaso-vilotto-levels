@@ -4,6 +4,7 @@
 
 💼 **Software Engineer**
 Currently working as a **Software Engineer** in **Milan, Italy** at **Levels**, building software and contributing to the company's products.
+<br>
 🎓 **Academic Background**
 - Master's Degree in Computer Science and Engineering (LM-32), University of Verona, graduated with **summa cum laude** (110/110 e lode) – GPA: **3.93 / 4.0** 🎯
 - Bachelor's Degree in Computer Science (L-31), University of Verona, graduated with **summa cum laude** (110/110 e lode) – GPA: **3.84 / 4.0** 🏅
