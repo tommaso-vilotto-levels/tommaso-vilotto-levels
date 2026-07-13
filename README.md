@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=205&color=gradient&text=Hi%20there,%20I%27m%20Tom!&textBg=false&animation=fadeIn" />
 </p>
----
+
 💼 **Software Engineer**
 Currently working as a **Software Engineer** in **Milan, Italy** at **Levels**, building software and contributing to the company's products.
 🎓 **Academic Background**
